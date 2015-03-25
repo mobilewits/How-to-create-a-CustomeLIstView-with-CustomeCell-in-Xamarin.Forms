@@ -1,0 +1,24 @@
+/Users/HariWepuri/Projects/ListViewXamarinForms/ListViewXamarinForms/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/HariWepuri/Projects/ListViewXamarinForms/ListViewXamarinForms/bin/Debug/ListViewXamarinForms.dll.mdb
+/Users/HariWepuri/Projects/ListViewXamarinForms/ListViewXamarinForms/bin/Debug/ListViewXamarinForms.dll
+/Users/HariWepuri/Projects/ListViewXamarinForms/ListViewXamarinForms/obj/Debug/ListViewXamarinForms.dll
+/Users/HariWepuri/Projects/ListViewXamarinForms/ListViewXamarinForms/obj/Debug/ListViewXamarinForms.dll.mdb
+/Users/HariWepuri/Projects/ListViewXamarinForms/ListViewXamarinForms/bin/Debug/Xamarin.Forms.Core.dll
+/Users/HariWepuri/Projects/ListViewXamarinForms/ListViewXamarinForms/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/HariWepuri/Projects/ListViewXamarinForms/ListViewXamarinForms/bin/Debug/mscorlib.dll
+/Users/HariWepuri/Projects/ListViewXamarinForms/ListViewXamarinForms/bin/Debug/System.Core.dll
+/Users/HariWepuri/Projects/ListViewXamarinForms/ListViewXamarinForms/bin/Debug/System.dll
+/Users/HariWepuri/Projects/ListViewXamarinForms/ListViewXamarinForms/bin/Debug/System.Linq.Queryable.dll
+/Users/HariWepuri/Projects/ListViewXamarinForms/ListViewXamarinForms/bin/Debug/System.Diagnostics.Tools.dll
+/Users/HariWepuri/Projects/ListViewXamarinForms/ListViewXamarinForms/bin/Debug/System.ComponentModel.EventBasedAsync.dll
+/Users/HariWepuri/Projects/ListViewXamarinForms/ListViewXamarinForms/bin/Debug/System.Net.Primitives.dll
+/Users/HariWepuri/Projects/ListViewXamarinForms/ListViewXamarinForms/bin/Debug/System.Net.Requests.dll
+/Users/HariWepuri/Projects/ListViewXamarinForms/ListViewXamarinForms/bin/Debug/System.Net.NetworkInformation.dll
+/Users/HariWepuri/Projects/ListViewXamarinForms/ListViewXamarinForms/bin/Debug/System.Text.RegularExpressions.dll
+/Volumes/HP V215B/Live/ListViewXamarinForms/ListViewXamarinForms/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Volumes/HP V215B/Live/ListViewXamarinForms/ListViewXamarinForms/bin/Debug/ListViewXamarinForms.dll.mdb
+/Volumes/HP V215B/Live/ListViewXamarinForms/ListViewXamarinForms/bin/Debug/ListViewXamarinForms.dll
+/Volumes/HP V215B/Live/ListViewXamarinForms/ListViewXamarinForms/obj/Debug/ListViewXamarinForms.dll
+/Volumes/HP V215B/Live/ListViewXamarinForms/ListViewXamarinForms/obj/Debug/ListViewXamarinForms.dll.mdb
+/Volumes/HP V215B/Live/ListViewXamarinForms/ListViewXamarinForms/bin/Debug/Xamarin.Forms.Core.dll
+/Volumes/HP V215B/Live/ListViewXamarinForms/ListViewXamarinForms/bin/Debug/Xamarin.Forms.Xaml.dll
